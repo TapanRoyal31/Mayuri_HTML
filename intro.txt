@@ -1,0 +1,56 @@
+Industry : 1) Web Development 2) Software Development
+
+1) Web Development:
+    -> Front-End  : (netflix) HTML , CSS , JavaScript 
+    -> Back-End   : Database , DB Connection 
+    -> Full-Stack : Front-End  + Back-End
+
+
+=> Front-End  : (netflix) HTML , CSS , JavaScript
+
+HTML : HyperText Marckup Language -> Button , login , paragraph 
+CSS : Cascading Style Sheet -> Website colorfull , website animation
+JS : JavaScript -> Websit Logic Provide
+
+
+
+HTML : FileName.html/.htm (LoginForm.html/LoginForm.htm)
+
+<head> : HTML <Tags></End>
+        <hr> (self closing)
+        <br> (self closing)
+
+
+HTML Code Structure:
+-------------------------------------------------
+<html>
+    <head>
+
+    </head>
+    <body>
+
+        <p></p>
+
+    </body>
+</html>
+
+
+
+<title>Websit Title provide</title>
+<h1> to <h6> -> difference in SEO Priority (google search option optimization)
+
+h1 priority high
+h6 priority low
+p -> Paragraph text
+br -> break rule
+hr -> horizontal rule
+
+
+Website :- collection of different webpages
+
+Webpages :- HTML Structure
+
+Browser :- where all your websites actually run Ex. Chrome,Edge,safari
+
+Search Engine :- Google,Bing,Duck go,Yahoo!! Decide which website is actually usefull for your preferences
+
