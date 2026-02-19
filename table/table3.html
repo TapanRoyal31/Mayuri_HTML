@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Nested Table</title>
+  </head>
+  <body>
+    <table border="1" height="300" width="500">
+      <tr>
+          <td rowspan="1" colspan="1">Main Table row 1 column 1</td>
+          <td colspan="2" rowspan="1">
+              
+              <center>
+            Main table column 2
+          <table border="1">
+            <tr>
+              <td>inner table </td>
+              <td>inner table</td>
+            </tr>
+            <tr>
+              <td>inner table</td>
+              <td>inner table</td>
+            </tr>
+            <tr>
+              <td>inner table</td>
+              <td>inner table</td>
+            </tr>
+          </table>
+          </center>
+        </td>
+      </tr>
+      <tr>
+        <td>main table row 2 col 1</td>
+        <td>main table row 2 col 2</td>
+      </tr>
+    </table>
+  </body>
+</html>
