@@ -1,0 +1,6 @@
+Unorder List :- Order dosn't matter
+                TypeList :- 1) Disc 2) Circle 3) square
+
+
+Ordered List :- Order does matter  
+                TypeList :- 1) number 2) alphabet 3) Roman digit
